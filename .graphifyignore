@@ -1,0 +1,3 @@
+# Logos and icons: no knowledge to extract, and each would cost a vision pass.
+frontend/public/*.svg
+frontend/src/assets/
